@@ -1,16 +1,25 @@
-## Hi there 👋
+## Olá, eu sou a Sara Oliveira! 👋
 
-<!--
-**saraoliveir4/saraoliveir4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou uma profissional que está estudando e me dedicando para me tornar uma Desenvolvedora Full Stack cada vez mais preparada.<br>
+Estou pronta para dar o meu melhor como uma Dev! 😉
 
-Here are some ideas to get you started:
+## Sobre mim
+🎓 Graduanda em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi.<br>
+🎓 Graduada em Estética e Cosmética pela Universidade de Mogi das Cruzes.<br>
+👩‍💼 Profissional com experiência significativa na área comercial.<br>
+✈️ Experiência como intercambista Au Pair nos EUA, trabalhando e desenvolvendo meu Inglês.<br>
+🎲 Amo desafios!<br>
+📍 São Paulo, Brasil.<br>
+📆 26 anos.<br>
+🐈 Pet Owner da gatinha mais linda desse mundo: Mousse!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+🖥️ Java | Spring Framework | MySQL | React | HTML5 | CSS3 | JavaScript | TypeScript | Git | GitHub<br>
+📈 Vivência em Metodologia Ágil Scrum
+
+## Contato
+📫 Email: sara.monteiro1234@gmail.com<br>
+💼 LinkedIn: [Sara Oliveira](www.linkedin.com/in/saramonteirooliveira)
+
+## GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraoliveir4&layout=compact&hide=portugol&theme=buefy)](https://github.com/saraoliveir4/github-readme-stats)
