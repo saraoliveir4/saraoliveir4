@@ -4,7 +4,7 @@ Sou uma profissional que está estudando e me dedicando para me tornar uma Desen
 Estou pronta para dar o meu melhor como uma Dev! 😉
 
 ## Sobre mim
-🎓 Graduanda em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi.<br>
+🎓 Graduanda em Sistemas de Informação pela Faculdade Impacta Tecnologia.<br>
 🎓 Graduada em Estética e Cosmética pela Universidade de Mogi das Cruzes.<br>
 👩‍💼 Profissional com experiência significativa na área comercial.<br>
 ✈️ Experiência como intercambista Au Pair nos EUA, trabalhando e desenvolvendo meu Inglês.<br>
