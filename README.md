@@ -11,7 +11,6 @@ Estou pronta para dar o meu melhor como uma Dev! 😉
 🎲 Amo desafios!<br>
 📍 São Paulo, Brasil.<br>
 📆 26 anos.<br>
-🐈 Pet Owner da gatinha mais linda desse mundo: Mousse!
 
 ## Habilidades
 🖥️ Java | Spring Framework | MySQL | React | HTML5 | CSS3 | JavaScript | TypeScript | Git | GitHub<br>
@@ -19,7 +18,7 @@ Estou pronta para dar o meu melhor como uma Dev! 😉
 
 ## Contato
 📫 Email: sara.monteiro1234@gmail.com<br>
-💼 LinkedIn: [Sara Oliveira](www.linkedin.com/in/saramonteirooliveira)
+💼 LinkedIn: [Sara Oliveira](https://www.linkedin.com/in/saramonteirooliveira)
 
 ## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraoliveir4&layout=compact&hide=portugol&theme=buefy)](https://github.com/saraoliveir4/github-readme-stats)
